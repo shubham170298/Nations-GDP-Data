@@ -2,6 +2,7 @@
 This repository provides a comprehensive Excel-based dataset featuring the Gross Domestic Product (GDP) data of countries across various years. It is designed for use in economic analysis, data science projects, business research, and educational purposes.
 
 📁 File Information
+
 File Name: Nations-GDP-Dataxlsx
 
 Format: Microsoft Excel (.xlsx)
@@ -120,7 +121,10 @@ This dataset is provided under the Creative Commons Attribution 4.0 Internationa
 
 
 📬 Contact
-📧 Name: [Shubham Srivastav|MBA Finance|Uttaranchal University]
+
+📧 Name: [Shubham Srivastav
+|MBA Finance|
+Uttaranchal University]
 
 📫 Email: [shubhamsrivastav949@gmail.com]
 
