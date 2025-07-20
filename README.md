@@ -118,16 +118,10 @@ Purchasing Power Parity (PPP)
 🧾 License
 This dataset is provided under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. You are free to use, share, and adapt with proper attribution.
 
-🙋‍♂️ Contributing
-Have suggestions, found errors, or want to expand the dataset?
-
-Fork the repo
-
-Open a pull request
-
-Or create an issue to report bugs or propose improvements
 
 📬 Contact
-📧 Maintainer: [Shubham Srivastav]
+📧 Name: [Shubham Srivastav|MBA Finance|Uttaranchal University]
+
 📫 Email: [shubhamsrivastav949@gmail.com]
-🔗 GitHub Link:
+
+🔗 GitHub Link:https://github.com/shubham170298/Nations-GDP-Data.git
